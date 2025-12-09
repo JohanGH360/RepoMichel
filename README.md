@@ -1,7 +1,7 @@
 # RepoMichel
 Repositorio training Michel
 - Clone this repository
-  - Navigate to [https://github.com/valeriemora/p-amers-mx-latamqa-qa-automation.git](https://github.com/JohanGH360/RepoMichel.git)
+  - Navigate to https://github.com/JohanGH360/RepoMichel.git
   - Click on Clone or Download and copy the project url
   - Open the command line terminal
   - Navigate to the desired directory for the project
